@@ -1,0 +1,25 @@
+.bg-light-pink{
+    background-color: #fceae8;
+}
+.gradient-pink{
+    color: #FF136F;
+}
+.categories img{
+    width: 150px;
+}
+.custom-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.watch-bg-color{
+    background-color: orange;
+}
+.bag-bg-color{
+    background-color: orchid;
+}
+.shoes-bg-color{
+    background-color: blue;
+}
